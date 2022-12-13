@@ -1,0 +1,3 @@
+touch .gitignore
+mv .gitignore gitignore.txt
+mv gitignore.txt .gitignore
